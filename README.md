@@ -1,3 +1,3 @@
 # Design Principles
 EPAM Home Task 3 : Design principles
-<br/>Updated README file
+<br/>This repository is created for Design principles practice
